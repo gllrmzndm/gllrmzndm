@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
 
 ## **EA TRAXX**
+Music that I am listening right now on Spotify
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color==9d3caa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
@@ -31,7 +32,5 @@ Here are some ideas to get you started:
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color=9d3caa&bar_color_cover=false" width="2000vh"/>
 
 ---
-
-I am passionate about car technology, software engineering and more. You can find more at https://guillermozaandam.nl Feel free to browse my repositories. Names can be weird or sometimes the name doesn't show what's inside the project.
 
 ![realnugif01.gif](./realnugif01.gif)
