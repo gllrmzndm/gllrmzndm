@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- I am Guillermo and currently I'm learning Front-end web development and this read me is under construction. -->
 
 
-# **Hello! I am Guillermo Zaandam**
+# **Guillermo Zaandam**
 ---
 
 ![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
