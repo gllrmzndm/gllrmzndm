@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://vehicle-audio-spotify.vercel.app/now-playing?open">
-        <img src="https://vehicle-audio-spotify.vercel.app/now-playing" width="100%" height="100%" alt="Now Playing">
+        <img src="https://vehicle-audio-spotify.vercel.app/now-playing" width="100%" height="100&" alt="Now Playing">
     </a>
 </div>
 
