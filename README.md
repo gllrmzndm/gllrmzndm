@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
+
 <!--
  **EA TRAXX**
 
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 -->
+
 ---
 
 ![realnugif01.gif](./realnugif01.gif)
