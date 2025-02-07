@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 # **Guillermo Zaandam**
 
 ---
+<!--
+![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
 
-##![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
+ **EA TRAXX**
 
-## **EA TRAXX**
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color==9d3caa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
-##<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color==9d3caa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color=9d3caa&bar_color_cover=false" width="2000vh"/> -->
 
-##<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color=9d3caa&bar_color_cover=false" width="2000vh"/> -->
-
-##<div>
- ##   <a href="https://vehicle-audio-spotify.vercel.app/now-playing?open">
- ##       <img src="https://vehicle-audio-spotify.vercel.app/now-playing" width="100%" height="100%" alt="Now Playing">
-##    </a>
-##</div>
-
+<div>
+   <a href="https://vehicle-audio-spotify.vercel.app/now-playing?open">
+       <img src="https://vehicle-audio-spotify.vercel.app/now-playing" width="100%" height="100%" alt="Now Playing">
+    </a>
+</div>
+-->
 ---
 
 ![realnugif01.gif](./realnugif01.gif)
