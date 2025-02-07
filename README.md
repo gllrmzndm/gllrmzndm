@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 ![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
 
-
+<!-- 
  **EA TRAXX**
+ -->
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guillermovandepetteflat&cover_image=true&theme=novatorem&bar_color==9d3caa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
