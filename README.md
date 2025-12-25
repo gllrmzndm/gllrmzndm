@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <!-- I am Guillermo and currently I'm learning Front-end web development and this read me is under construction. -->
 
-# **Guillermo Zaandam**
+<!-- # **Guillermo Zaandam**  -->
 
----
 
-![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)
+
+<!-- ![timothy-colin-pausemenuall01.png](./timothy-colin-pausemenuall01.png)  -->
 
 <!-- 
  **EA TRAXX**
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ---
 
-![realnugif01.gif](./realnugif01.gif)
+<!-- ![realnugif01.gif](./realnugif01.gif)  -->
